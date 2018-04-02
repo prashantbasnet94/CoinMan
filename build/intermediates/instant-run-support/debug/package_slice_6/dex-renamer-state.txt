@@ -1,0 +1,4 @@
+#Mon Apr 02 15:50:18 CDT 2018
+base.0=/home/prashant/Downloads/CoinMan-master/android/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

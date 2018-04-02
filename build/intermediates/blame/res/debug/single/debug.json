@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/prashant/Downloads/CoinMan-master/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/prashant/Downloads/CoinMan-master/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/prashant/Downloads/CoinMan-master/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/prashant/Downloads/CoinMan-master/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/prashant/Downloads/CoinMan-master/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/prashant/Downloads/CoinMan-master/android/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/prashant/Downloads/CoinMan-master/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/prashant/Downloads/CoinMan-master/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/prashant/Downloads/CoinMan-master/android/build/intermediates/res/merged/debug/raw_music.mp3.flat",
+        "source": "/home/prashant/Downloads/CoinMan-master/android/res/raw/music.mp3"
+    },
+    {
+        "merged": "/home/prashant/Downloads/CoinMan-master/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/prashant/Downloads/CoinMan-master/android/res/drawable-xxxhdpi/ic_launcher.png"
+    }
+]
